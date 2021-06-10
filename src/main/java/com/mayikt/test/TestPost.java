@@ -22,7 +22,7 @@ public class TestPost {
     @Test
     public static void main(String[] args) {
 
-
+        System.out.println("我能有多骄傲，不堪一击好不好");
         //for 循环 for fori forr
         List<String> list=new ArrayList<>();
         for (String s : list) {
