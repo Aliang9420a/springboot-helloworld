@@ -26,6 +26,7 @@ public class TestPost {
         System.out.println("大哥改的代码");
         System.out.println("主分支修改");
         System.out.println("大哥改的代码2");
+        System.out.println("push尝试");
         //for 循环 for fori forr
         List<String> list=new ArrayList<>();
         for (String s : list) {
